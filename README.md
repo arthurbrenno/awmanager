@@ -1,4 +1,13 @@
 <br/>
+Vamos refazer ele depois, só pra quem pediu pra ver:
+
+## BREVEMENTE - como usar:
+1. inicie o XAMPP (ative o apache e o mysql)
+2. abra o arquivo start.bat (pra iniciar o servidor)
+3. abra o arquivo ABRA.html
+4. Use :)
+
+
 <p align="center">
   <a href="https://github.com/arthurbrenno/awmanager-app">
     <img src="https://arthurbrenno-avatarstrabalho.s3.sa-east-1.amazonaws.com/logo.png" alt="Logo" width="80" height="80">
