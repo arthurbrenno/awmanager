@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tec.Int.II</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            position: relative;
+            background: linear-gradient(90deg, #0076ff, #00ffad);
+            background-size: 200% 200%;
+            animation: gradientFollow 5s linear infinite;
+        }
+
+        @keyframes gradientFollow {
+            0% {
+                background-position: 100% 50%;
+            }
+            50% {
+                background-position: 0% 50%;
+            }
+            100% {
+                background-position: 100% 50%;
+            }
+        }
+
+        .mac-button {
+            transition: background-color 0.3s ease;
+        }
+
+        .mac-button:hover {
+            background: linear-gradient(90deg, #0076ff, #00ffad);
+            background-size: 200% 200%;
+            animation: none;
+        }
+
+        .animate-fade-in {
+            animation: fadeIn 1s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+<div class="bg-white rounded-lg shadow-lg p-8 max-w-sm mx-auto relative animate-fade-in">
+
+    <div class="absolute top-0 left-0 mt-2 ml-2">
+        <div class="flex items-center">
+            <div class="w-3 h-3 rounded-full bg-red-500"></div>
+            <div class="w-3 h-3 ml-2 rounded-full bg-yellow-500"></div>
+            <div class="w-3 h-3 ml-2 rounded-full bg-green-500"></div>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <h1 class="text-3xl font-bold mb-4">Suas Tarefas</h1>
+        <h2 class="text-xl text-gray-500 mb-4">Reunidas em um só lugar</h2>
+        <button class="mac-button bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-full">
+            <a href="http://localhost:3000/" class="text-white no-underline">🡆</a>
+        </button>
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+.bg-custom {
+    background-color: #B08876;
+}
+
+     /* Use a fonte San Francisco ou uma similar */
+::-webkit-input-placeholder {
+     font-family: "San Francisco", sans-serif;
+ }
+::-moz-placeholder {
+    font-family: "San Francisco", sans-serif;
+}
+:-ms-input-placeholder {
+    font-family: "San Francisco", sans-serif;
+}
+:-moz-placeholder {
+    font-family: "San Francisco", sans-serif;
+}
+

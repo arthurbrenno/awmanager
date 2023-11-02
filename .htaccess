@@ -1,0 +1,17 @@
+Options -Indexes
+
+#RewriteCond ${HTTP_HOST} ^www\.(.*)$ [NC]
+#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI}
+
+#RewriteCond ${HTTP:X-Forwarded-Proto} !https
+#RewriteCond %{HTTPS} off
+#RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI}
+
+
+RewriteEngine On
+RewriteBase /awmanager/src/public/
+
+# Redireciona todas as solicitações para o arquivo index.php, exceto se já existir um arquivo ou diretório com o mesmo nome
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ ./index.php [QSA,NC]
+

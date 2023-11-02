@@ -1,0 +1,146 @@
+
+#11E5EA --> destaques
+#A83A00 --> texto h1
+#FFE8D3 --> body
+#B08876 --> header
+
+
+/*
+
+  __          __
+_/  |_ __ ___/  |_ __ __    ____
+\   __\  |  \   __\  |  \ _/ __ \
+ |  | |  |  /|  | |  |  / \  ___/
+ |__| |____/ |__| |____/   \___  >
+                               \/
+               .__         .__
+__  _  __ ____ |  |   ____ |  |   ____ ___.__. ______
+\ \/ \/ // __ \|  | _/ ___\|  | _/ __ <   |  |/  ___/
+ \     /\  ___/|  |_\  \___|  |_\  ___/\___  |\___ \
+  \/\_/  \___  >____/\___  >____/\___  > ____/____  >
+             \/          \/          \/\/         \/
+
+
+                __
+               / _)
+        .-^^^-/ /
+    __/       /
+    <__.|_|-|_|
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⡿⠛⠋⠉⠉⠉⠉⠉⡿⠛⠻⠷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠟⠉⠀⠙⣦⣀⣀⣀⣠⡤⠴⡿⣄⡀⠀⠀⠉⠻⢷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡟⠁⠀⠀⠀⣰⠋⢧⠀⠀⠀⠀⠀⡇⠀⠉⠙⠓⠒⡶⢯⣙⣿⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⢀⠞⠁⠀⠈⣳⡤⠤⠴⠚⣟⠛⠒⠒⠒⣺⠳⢤⣀⣉⣻⣷⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠶⠶⣤⣾⡁⠀⠀⢀⡜⠉⣧⣠⣤⣴⣾⣶⠶⠶⠶⠷⣶⣶⣶⣬⣭⣙⣷⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⣿⠀⠙⢲⣞⠁⣠⡾⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⢷⣄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⡇⠀⠀⢸⠏⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀
+⠀⠀⠀⢀⣠⣴⣶⣶⣦⣾⠃⠀⠀⢠⡇⠀⠀⣸⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⡄
+⠀⠀⣠⡿⠿⡄⠀⠀⠈⣿⡀⠀⠀⡼⠀⠀⣴⣃⣤⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⣰⡿⠁⠀⠹⡄⠀⠀⣿⠿⣶⣴⡷⠒⠋⠻⡄⠀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠃
+⢀⣿⠁⠀⠀⠀⢹⣀⣴⡏⠀⠀⠙⢿⣦⠀⠀⢹⡄⠀⠻⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣿⠋⠀
+⢸⡿⢧⠀⠀⢀⡼⠯⣼⡇⠀⠀⠀⠀⠙⣷⡄⠀⣇⡤⠞⠉⠻⢷⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣶⣿⣿⣿⠀⠀
+⣿⡇⠈⢧⣠⠎⠀⠀⢸⡇⠀⠀⠀⠀⠀⠘⣿⡞⠛⠢⣄⠀⣠⠏⠈⠉⡿⠛⠛⠛⢻⠛⠛⠛⠛⢿⠉⠁⣴⠟⠁⣿⠀⠀
+⣿⠃⠀⡼⠧⣄⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠘⣷⡀⠀⠘⣶⣁⡀⠀⡼⠁⢀⡀⠀⠘⡇⣀⣠⣤⣬⣷⣾⠏⠀⠀⣿⠀⠀
+⣿⣀⡞⠁⠀⠈⢣⡀⢸⡇⠀⠀⠀⠀⠀⠀⠀⢹⣇⠀⡼⠁⠀⠉⣹⠛⠉⠉⡉⠉⢙⣏⠁⠀⠀⠀⣼⡏⠀⠀⠀⣿⠀⠀
+⣿⡿⣄⠀⠀⠀⠀⢳⣼⡇⠀⠀⠀⠀⠀⠀⠀⠈⣿⡾⠁⠀⠀⢀⡇⢠⠂⣜⣠⣤⠸⡟⢣⠀⠀⢰⡿⠀⠀⠀⠀⣿⠀⠀
+⣿⡇⠈⠳⡄⠀⠀⣨⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⣿⡗⠒⠲⢤⣸⠀⣸⣄⣿⣿⣿⣷⣿⣞⣠⣤⣿⠇⠀⠀⠀⠀⣿⠀⠀
+⢸⣇⠀⠀⢹⡀⡰⠃⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⣹⢉⡽⣿⢿⣿⣿⣿⣿⣅⠀⠀⣿⠀⠀⠀⠀⢀⣿⠀⠀
+⠘⣿⡀⠀⠈⡿⠁⠀⢸⣷⣦⣤⣤⣄⣀⡀⠀⠀⢸⡇⠀⠀⠀⡟⠘⡅⢇⢸⣿⣿⠇⡇⡸⠀⠀⣿⠀⢀⣀⣠⣼⣿⠀⠀
+⠀⢻⣇⠀⣰⠛⠒⠦⣼⡇⠀⠀⠉⠉⠙⢻⣷⣦⣼⡏⠉⠓⠦⣿⠤⠵⠾⠾⠿⢿⣸⣯⠧⠖⠚⣿⡾⠟⠋⠉⣹⡇⠀⠀
+⠀⠈⢿⣶⠇⠀⠀⠀⢸⣿⣶⣤⣤⣤⣀⣼⣀⣈⣙⣃⡀⠀⠀⢹⡀⠀⠀⢀⣀⣀⣸⣁⣀⣀⣤⣤⣤⣶⠶⠿⣿⡇⠀⠀
+⠀⠀⠈⠻⣷⣄⠀⠀⢘⣧⠀⠀⠉⠉⠉⠙⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⢉⡉⠉⠉⠀⠀⠀⢀⣿⠁⠀⠀
+⠀⠀⠀⠀⠈⠙⠛⠿⠻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡷⠶⠶⠶⢶⡶⠿⠿⠿⠛⠋⠀⠀⢀⣀⣤⣾⡿⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⢸⣧⣤⣤⣤⣶⣶⠶⠿⠛⠋⠁⣼⡇⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡍⠙⠛⢿⠿⠷⠶⠶⠾⠿⠿⠟⢻⡇⠀⠀⠀⢸⡏⠉⠁⠀⣀⣀⣀⣀⣄⣀⣀⣿⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠲⢦⣼⣀⣀⣀⣤⣤⣀⣀⡀⢸⡇⠀⠀⠀⢸⣷⠖⠚⠉⠉⠀⠀⠀⠀⠀⣸⡏⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⠀⠀⡏⠁⠀⠀⠀⠀⠀⠈⠉⣿⠇⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠀⠀⣠⡿⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣧⣀⡇⠀⠀⠀⠀⠀⢀⣠⣾⠟⠀⠀⠀⠀⠀⠈⠻⢷⣶⣶⣶⣶⡶⠿⠛⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠿⠿⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+*/
+
+
+
+public function handle(Request $request): Response
+{
+    $dispatcher = simpleDispatcher(function(RouteCollector $routeCollector) {
+        $routes = include BASE_PATH . '/routes/web.php';
+
+        foreach ($routes as $route) {
+            $routeCollector->addRoute(...$route);
+        }
+
+    });
+
+    $routeInfo = $dispatcher->dispatch(
+        $request->getMethod(),
+        $request->getPathInfo()
+    );
+
+    // Verifique se o controller existe
+    [, [$controller, $method], $vars] = $routeInfo;
+
+    if (class_exists($controller)) {
+        $response = call_user_func_array([new $controller(), $method], $vars);
+    } else {
+        // Trate o caso em que o controller não existe
+        $response = new Response('Página não encontrada', 404);
+    }
+
+    return $response;
+}
+
+
+
+<div class="h-screen flex items-center justify-center bg-gradient-to-r from-purple-900 to-pink-900">
+    <div class="max-w-lg w-full bg-white rounded-lg shadow-lg p-8">
+        <h1 class="text-4xl text-center font-bold text-gray-900 mb-8">Meu Gerenciador de Tarefas</h1>
+        <div class="flex items-center mb-4">
+            <div class="rounded-full bg-purple-500 h-6 w-6 mr-2"></div>
+            <div class="rounded-full bg-pink-500 h-6 w-6 mr-2"></div>
+            <div class="rounded-full bg-yellow-500 h-6 w-6 mr-2"></div>
+            <div class="rounded-full bg-green-500 h-6 w-6"></div>
+        </div>
+        <div class="flex items-center mb-4">
+            <div class="h-8 w-8 bg-gray-200 rounded-full mr-4"></div>
+            <p class="text-sm text-gray-600">Status: Online</p>
+        </div>
+        <div class="bg-gray-100 p-4 rounded-lg mb-4">
+            <h2 class="text-xl font-bold text-gray-900 mb-4">Tarefas Pendentes</h2>
+            <ul class="space-y-2">
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-purple-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Reunião com a equipe</p>
+                </li>
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-yellow-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Atualizar relatório mensal</p>
+                </li>
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-green-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Enviar e-mails de acompanhamento</p>
+                </li>
+            </ul>
+        </div>
+        <div class="bg-gray-100 p-4 rounded-lg">
+            <h2 class="text-xl font-bold text-gray-900 mb-4">Tarefas Concluídas</h2>
+            <ul class="space-y-2">
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-purple-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Atualizar página inicial</p>
+                </li>
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-pink-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Corrigir bugs no sistema</p>
+                </li>
+                <li class="flex items-center">
+                    <div class="h-4 w-4 bg-green-500 rounded-full mr-2"></div>
+                    <p class="text-sm text-gray-700">Preparar apresentação para reunião</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
