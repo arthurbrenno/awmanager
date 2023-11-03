@@ -7,6 +7,8 @@ Vamos refazer ele depois, só pra quem pediu pra ver:
 3. abra o arquivo ABRA.html
 4. Use :)
 
+https://arthurbrenno-avatarstrabalho.s3.sa-east-1.amazonaws.com/AWManager+-+Official+Trailer.mp4
+
 
 <p align="center">
   <a href="https://github.com/arthurbrenno/awmanager-app">
@@ -71,7 +73,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 * Servidor Web (por exemplo, Apache)
 * Banco de Dados (MySQL)
 
-  https://arthurbrenno-avatarstrabalho.s3.sa-east-1.amazonaws.com/AWManager+-+Official+Trailer.mp4
+  
 
 ### Instalação
 
