@@ -1,6 +1,4 @@
 <br/>
-Vamos refazer ele depois, só pra quem pediu pra ver:
-
 ## BREVEMENTE - como usar:
 1. inicie o XAMPP (ative o apache e o mysql)
 2. abra o arquivo start.bat (pra iniciar o servidor)
